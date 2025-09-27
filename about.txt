@@ -2,3 +2,4 @@ NAME : Gaurav Mane
 Class : SYBCA
 Division : E2
 College name : MIT ACSC Alandi(D).
+fav. subject : cloud computing
